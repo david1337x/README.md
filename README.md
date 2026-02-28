@@ -1,6 +1,6 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david1337x&label=Profile%20views&color=0e75b6&style=plastic" alt="david1337x" /> </p>
+<p align="left"><img src="https://img.shields.io/badge/Profile%20Views-922-blue?style=plastic" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=david1337x" alt="david1337x" /></a> </p>
 
