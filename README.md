@@ -3,7 +3,7 @@ Full Stack Web Developer<br>Ethical Hacker<br>Software Developer<br>Bot Infrastr
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/davey1337.bsky.social) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dav1dnShepherd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lord1337@dnmx.cc) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/davey1337.bsky.social) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dav1dnShepherd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@dav1337.com) 
 <p align="left"><img src="https://img.shields.io/badge/Profile%20Views-938-blue?style=plastic" /></p>
 
 # 💻 Tech Stack:
