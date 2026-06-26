@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:david1337x?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto&num=998"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:david1337x?theme=sketch-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto&num=1650"  />
 </div>
 
 ###
