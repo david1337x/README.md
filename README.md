@@ -1,199 +1,293 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DAVID%201337&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20%7C%20SECURITY%20%7C%20SOFTWARE&descAlignY=58&descSize=16&theme=tokyonight" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                        CINEMATIC HEADER                        -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=DAVID%201337&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20%2F%2F%20SECURITY%20%2F%2F%20SOFTWARE%20%2F%2F%20INFRASTRUCTURE&descSize=15&descAlignY=58&color=0:050505,50:0a1118,100:001f2b" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Ethical+Hacker;Software+Developer;Bot+Infrastructure+Engineer;Building+systems+that+actually+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2400&pause=1100&color=00E5FF&center=true&vCenter=true&width=950&height=60&lines=SYSTEM+ONLINE.;FULL+STACK+WEB+DEVELOPER.;ETHICAL+HACKER.;SOFTWARE+DEVELOPER.;BOT+INFRASTRUCTURE+ENGINEER.;BUILD.+BREAK.+UNDERSTAND.+REBUILD." />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=david1337x&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=david1337x&style=for-the-badge&color=00e5ff&label=VISITORS"/>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                         DAVID // 1337                            ║
-║                                                                  ║
-║  FULL STACK          SECURITY          SOFTWARE          AI      ║
-║                                                                  ║
-║  BUILD → BREAK → ANALYZE → AUTOMATE → DEPLOY                    ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                         D A V I D   / /   1 3 3 7                    ║
+║                                                                      ║
+║                    DEVELOPER OPERATING SYSTEM                       ║
+║                                                                      ║
+║             FULL STACK        SECURITY        INFRASTRUCTURE         ║
+║                                                                      ║
+║                         STATUS: ONLINE                               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
-## `> whoami`
+<br>
 
-```bash
-┌──(david㉿github)-[~/profile]
-└─$ whoami
+## `01 // INITIALIZATION`
 
-David
-
-┌──(david㉿github)-[~/profile]
-└─$ cat /etc/identity
-
-[+] Full Stack Web Developer
-[+] Ethical Hacker
-[+] Software Developer
-[+] Bot Infrastructure Engineer
-[+] Automation Builder
-[+] AI / LLM Enthusiast
-
-┌──(david㉿github)-[~/profile]
-└─$ cat /etc/current_focus
-
-→ Scalable web applications
-→ Cybersecurity & offensive security
-→ Automation & bot infrastructure
-→ AI-powered software
-→ High-performance developer tooling
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ DAVID://SYSTEM/IDENTITY                                              │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│ > booting developer profile...                                      │
+│ > loading identity...                                               │
+│ > loading capabilities...                                           │
+│ > loading active systems...                                         │
+│                                                                      │
+│ [████████████████████████████████████████████████████] 100%         │
+│                                                                      │
+│ SYSTEM STATUS:        OPERATIONAL                                    │
+│ SECURITY STATUS:      HARDENED                                      │
+│ BUILD STATUS:        ACTIVE                                         │
+│ AUTOMATION STATUS:   RUNNING                                        │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `> system.status`
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=statuspal&logoColor=white"/>
-<img src="https://img.shields.io/badge/BUILDING-24%2F7-00f7ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MODE-FOCUSED-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-ff4d6d?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=800&color=8B949E&center=true&vCenter=true&width=900&lines=%5B00%3A00%3A01%5D+Initializing+core...;%5B00%3A00%3A02%5D+Mounting+development+environment...;%5B00%3A00%3A03%5D+Loading+security+modules...;%5B00%3A00%3A04%5D+Connecting+to+infrastructure...;%5B00%3A00%3A05%5D+Environment+ready." />
 
 </div>
 
 ---
 
-## `> tech --stack`
+# `02 // THE OPERATOR`
 
-### Languages
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ WHOAMI                                                               │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│ NAME          David                                                  │
+│ HANDLE        david1337x                                             │
+│                                                                      │
+│ ROLE          Full Stack Web Developer                               │
+│               Ethical Hacker                                         │
+│               Software Developer                                     │
+│               Bot Infrastructure Engineer                            │
+│                                                                      │
+│ SPECIALTY     Turning ideas into systems                             │
+│                                                                      │
+│ CURRENT MODE  BUILD / BREAK / ANALYZE / AUTOMATE                     │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+> **I build software, investigate systems, automate workflows and turn complicated ideas into usable infrastructure.**
+
+<br>
+
+```text
+                         ┌───────────────┐
+                         │     IDEA      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                       ┌─────────────────┐
+                       │    ARCHITECT    │
+                       └────────┬────────┘
+                                │
+                                ▼
+                     ┌─────────────────────┐
+                     │       BUILD         │
+                     └──────────┬──────────┘
+                                │
+                    ┌───────────┴───────────┐
+                    ▼                       ▼
+              ┌───────────┐           ┌───────────┐
+              │   SECURE  │           │ AUTOMATE  │
+              └─────┬─────┘           └─────┬─────┘
+                    │                       │
+                    └───────────┬───────────┘
+                                ▼
+                       ┌─────────────────┐
+                       │     DEPLOY      │
+                       └─────────────────┘
+```
+
+---
+
+# `03 // CAPABILITIES`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,php,go,bash" />
+### `LANGUAGES`
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,bash" />
 
-### Frontend
+<br><br>
 
-<div align="center">
+### `FRONTEND`
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,redux,threejs,angular,vue" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,redux,threejs" />
 
-</div>
+<br><br>
 
-### Backend / APIs
-
-<div align="center">
+### `BACKEND`
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet,graphql" />
 
-</div>
+<br><br>
 
-### Databases / Infrastructure
-
-<div align="center">
+### `DATABASE / CLOUD / INFRASTRUCTURE`
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,docker,nginx,aws,cloudflare,vercel" />
 
-</div>
+<br><br>
 
-### Security / Systems
+### `SYSTEMS / SECURITY / TOOLING`
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,gitlab,selenium,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,gitlab,selenium,raspberrypi,arduino" />
 
 </div>
 
 ---
 
-## `> architecture --mindset`
+# `04 // OPERATING PRINCIPLES`
+
+<div align="center">
 
 ```text
-                     ┌───────────────────┐
-                     │       IDEA        │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │      DESIGN       │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                ┌──────────────────────────────┐
-                │           BUILD              │
-                │                              │
-                │ React • Node • Python • APIs │
-                └──────────────┬───────────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │      SECURE       │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │     AUTOMATE      │
-                     └─────────┬─────────┘
-                               │
-                               ▼
-                     ┌───────────────────┐
-                     │      DEPLOY       │
-                     └───────────────────┘
+             ┌─────────────────────────────────┐
+             │                                 │
+             │       DON'T JUST WRITE CODE.    │
+             │                                 │
+             │       UNDERSTAND THE SYSTEM.    │
+             │                                 │
+             └─────────────────────────────────┘
+
+
+        BUILD               BREAK               REBUILD
+          │                   │                    │
+          ▼                   ▼                    ▼
+
+      CREATE IT          TEST IT HARD        MAKE IT BETTER
 ```
-
----
-
-## `> projects --featured`
-
-<div align="center">
-
-<a href="https://github.com/david1337x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=david1337x&repo=Recoverify&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/david1337x">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=david1337x&repo=north-india-friends&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
 <br>
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ PROJECT PHILOSOPHY                                          │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Don't build another demo.                                 │
-│  Build something people can actually use.                  │
-│                                                             │
-│  Don't automate a button.                                   │
-│  Automate the entire workflow.                              │
-│                                                             │
-│  Don't just deploy code.                                    │
-│  Build infrastructure around it.                            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+| DOMAIN           | APPROACH                                           |
+| :--------------- | :------------------------------------------------- |
+| `WEB`            | Interfaces that feel fast, deliberate and alive    |
+| `BACKEND`        | APIs and services designed around actual workflows |
+| `SECURITY`       | Understand how systems fail before hardening them  |
+| `AUTOMATION`     | Eliminate repetitive human work                    |
+| `INFRASTRUCTURE` | Make software survive outside localhost            |
+| `AI`             | Use models as components inside real systems       |
 
 ---
 
-## `> github --analytics`
+# `05 // ACTIVE SYSTEMS`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=david1337x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=C9D1D9" />
+<a href="https://dav1337.com">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=david1337x&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" />
+<img src="https://img.shields.io/badge/DAV1337.COM-ONLINE-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│                        ACTIVE PROJECTS                               │
+│                                                                      │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  RECOVERIFY                                                          │
+│  └─ Digital recovery / marketplace infrastructure                   │
+│                                                                      │
+│  NORTH INDIA FRIENDS                                                 │
+│  └─ Non-profit digital infrastructure                                │
+│                                                                      │
+│  DAV1337                                                             │
+│  └─ Personal developer / engineering platform                       │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `06 // PROJECT PHILOSOPHY`
+
+```text
+              ┌─────────────────────────────────────┐
+              │                                     │
+              │     "WHAT CAN THIS SYSTEM DO?"      │
+              │                                     │
+              └──────────────────┬──────────────────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    TEST       │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    BREAK      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    LEARN      │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    REBUILD    │
+                         └───────────────┘
+```
+
+<br>
+
+> **The first version is supposed to work.
+> The second version is supposed to survive.**
+
+---
+
+# `07 // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=david1337x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" height="190"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david1337x&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" height="190"/>
 
 </div>
 
@@ -201,13 +295,23 @@ David
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=david1337x&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=7C3AED&fire=FF4D6D&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com?user=david1337x&theme=dark&hide_border=true&background=050505&stroke=00E5FF&ring=00E5FF&fire=FFB000&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777" width="70%"/>
 
 </div>
 
 ---
 
-## `> contribution --visualize`
+# `08 // ACTIVITY STREAM`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david1337x&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&radius=12" width="100%"/>
+
+</div>
+
+---
+
+# `09 // CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -221,49 +325,70 @@ David
 
 <br>
 
+```text
+                         CONTRIBUTION MATRIX
+
+       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+       ░░▓▓▓▓░░░░▓▓░░░░░░▓▓▓▓▓▓░░░░░░▓▓░░░░░░░░▓▓▓▓░░░░
+       ░░▓▓▓▓▓▓░░░░░░▓▓▓▓▓▓▓▓▓▓░░▓▓▓▓▓▓░░░░▓▓▓▓▓▓░░░░
+       ░░░░▓▓▓▓▓▓░░░░▓▓▓▓░░░░▓▓▓▓▓▓▓▓░░░░░░▓▓▓▓▓▓▓▓░░
+       ░░░░░░▓▓░░░░░░░░░░▓▓▓▓▓▓░░░░░░░░▓▓▓▓░░░░░░▓▓▓▓
+       ░░▓▓▓▓▓▓░░▓▓▓▓░░░░░░▓▓▓▓░░▓▓▓▓▓▓░░░░░░▓▓▓▓░░░░
+```
+
+---
+
+# `10 // ACHIEVEMENTS`
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=david1337x&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FF4D6D&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=david1337x&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%"/>
 
 </div>
 
 ---
 
-## `> github --trophies`
+# `11 // SYSTEM LOG`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=david1337x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1600&pause=650&color=8B949E&center=true&vCenter=true&width=950&height=100&lines=%5BINFO%5D+Developer+environment+initialized.;%5BINFO%5D+Frontend+systems+loaded.;%5BINFO%5D+Backend+systems+loaded.;%5BINFO%5D+Security+modules+loaded.;%5BINFO%5D+Automation+layer+online.;%5BOK%5D+All+systems+operational." />
 
 </div>
 
 ---
 
-## `> terminal --activity`
+# `12 // TRANSMISSION`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=%5B%2B%5D+Initializing+developer+environment...;%5B%2B%5D+Loading+projects...;%5B%2B%5D+Compiling+ideas...;%5B%2B%5D+Deploying+solutions...;%5B%2B%5D+System+ready." />
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│                         TRANSMISSION                             │
+│                                                                 │
+│             BUILD SOMETHING WORTH BREAKING.                    │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-</div>
-
----
-
-## `> connect`
-
-<div align="center">
+<br>
 
 <a href="https://github.com/david1337x">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=050505"/>
 </a>
 
 <a href="https://x.com/Dav1dnShepherd">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=050505"/>
 </a>
 
 <a href="https://dav1337.com">
-<img src="https://img.shields.io/badge/Website-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/DAV1337.COM-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=david1337x&style=flat-square&color=00e5ff&label=SIGNAL+RECEIVED"/>
 
 </div>
 
@@ -272,17 +397,17 @@ David
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│                 KEEP BUILDING.                      │
-│                 KEEP BREAKING.                      │
-│                 KEEP LEARNING.                      │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+                         ─────────────────
+
+                              DAVID
+
+                         SYSTEM TERMINATED
+
+                         ...or is it?
+
+                         ─────────────────
 ```
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:001f2b,50:0a1118,100:050505" width="100%"/>
 
 </div>
