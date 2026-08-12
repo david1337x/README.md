@@ -1,84 +1,198 @@
-<svg width="1100" height="520" viewBox="0 0 1100 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Engineering process diagram: idea leads to architecture, then build, which splits into secure and automate, converging on deploy.">
-  <title>Engineering Process — Idea to Deploy</title>
+<div align="center">
 
-  <defs>
-    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#050505"/>
-      <stop offset="100%" stop-color="#0A1118"/>
-    </linearGradient>
-    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
-      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#00E5FF" stroke-opacity="0.045" stroke-width="1"/>
-    </pattern>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="M 0 0 L 10 5 L 0 10 z" fill="#00E5FF"/>
-    </marker>
-    <filter id="nodeGlow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<img src="assets/hero.svg" alt="DAVID // 1337 — full stack developer, security researcher, infrastructure engineer. Status: online." width="100%"/>
 
-  <rect width="1100" height="520" fill="url(#bg2)"/>
-  <rect width="1100" height="520" fill="url(#grid2)"/>
+</div>
 
-  <text x="40" y="44" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="13" letter-spacing="2" fill="#8B949E">11 // SYSTEM ARCHITECTURE</text>
-  <line x1="40" y1="58" x2="1060" y2="58" stroke="#00E5FF" stroke-opacity="0.25"/>
+<br>
 
-  <!-- connective paths, drawn first so nodes sit on top -->
-  <g fill="none" stroke="#00E5FF" stroke-width="1.6" stroke-opacity="0.55" marker-end="url(#arrow)">
-    <path d="M 550 118 L 550 158" />
-    <path d="M 550 216 L 550 256" />
-    <path d="M 550 314 L 420 354" />
-    <path d="M 550 314 L 680 354" />
-    <path d="M 420 412 L 550 452" />
-    <path d="M 680 412 L 550 452" />
-  </g>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=david1337x&style=for-the-badge&color=00E5FF&label=VISITORS"/>
+</div>
 
-  <!-- animated pulse traveling the spine, decorative signal-flow motion -->
-  <circle r="3.4" fill="#00E5FF" filter="url(#nodeGlow)">
-    <animateMotion dur="4.2s" repeatCount="indefinite"
-      path="M 550 118 L 550 158 L 550 216 L 550 256 L 550 314 L 420 354 L 420 412 L 550 452" />
-  </circle>
+<br>
 
-  <!-- node template applied per stage -->
-  <g font-family="'JetBrains Mono', 'Courier New', monospace" text-anchor="middle">
+---
 
-    <!-- IDEA -->
-    <g transform="translate(550,88)">
-      <rect x="-90" y="-24" width="180" height="48" rx="3" fill="#0A1118" stroke="#8B949E" stroke-opacity="0.6"/>
-      <text y="6" font-size="14" letter-spacing="2" fill="#FFFFFF">IDEA</text>
-    </g>
+## `01 // BOOT`
 
-    <!-- ARCHITECT -->
-    <g transform="translate(550,186)">
-      <rect x="-110" y="-24" width="220" height="48" rx="3" fill="#0A1118" stroke="#00E5FF" stroke-opacity="0.7"/>
-      <text y="6" font-size="14" letter-spacing="2" fill="#FFFFFF">ARCHITECT</text>
-    </g>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1900&pause=700&color=8B949E&center=true&vCenter=true&width=900&height=90&lines=%5B00%3A00%3A01%5D+Initializing+developer+environment...;%5B00%3A00%3A02%5D+Loading+security+modules...;%5B00%3A00%3A03%5D+Connecting+to+infrastructure...;%5B00%3A00%3A04%5D+Mounting+project+database...;%5B00%3A00%3A05%5D+Establishing+secure+channel...;%5B00%3A00%3A06%5D+System+ready." alt="Terminal boot sequence"/>
+</div>
 
-    <!-- BUILD -->
-    <g transform="translate(550,284)">
-      <rect x="-130" y="-28" width="260" height="56" rx="3" fill="#0A1118" stroke="#00E5FF" stroke-opacity="0.9"/>
-      <text y="7" font-size="16" letter-spacing="3" fill="#00E5FF">BUILD</text>
-    </g>
+---
 
-    <!-- SECURE -->
-    <g transform="translate(420,384)">
-      <rect x="-100" y="-24" width="200" height="48" rx="3" fill="#0A1118" stroke="#7C3AED" stroke-opacity="0.75"/>
-      <text y="6" font-size="14" letter-spacing="2" fill="#FFFFFF">SECURE</text>
-    </g>
+## `02 // WHOAMI`
 
-    <!-- AUTOMATE -->
-    <g transform="translate(680,384)">
-      <rect x="-100" y="-24" width="200" height="48" rx="3" fill="#0A1118" stroke="#7C3AED" stroke-opacity="0.75"/>
-      <text y="6" font-size="14" letter-spacing="2" fill="#FFFFFF">AUTOMATE</text>
-    </g>
+```bash
+$ whoami
+david
 
-    <!-- DEPLOY -->
-    <g transform="translate(550,482)">
-      <rect x="-120" y="-26" width="240" height="52" rx="3" fill="#0A1118" stroke="#00E5FF" stroke-opacity="0.9"/>
-      <text y="6" font-size="15" letter-spacing="3" fill="#FFFFFF">DEPLOY</text>
-    </g>
-  </g>
+$ cat profile.conf
+ROLE="Full Stack Web Developer"
+SECURITY="Ethical Hacker"
+SYSTEMS="Software Developer"
+INFRASTRUCTURE="Bot Infrastructure Engineer"
 
-  <text x="1060" y="510" text-anchor="end" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="10" fill="#8B949E" fill-opacity="0.6">DIAGRAM IS A DESIGN ELEMENT, NOT LIVE TELEMETRY</text>
-</svg>
+$ systemctl status david
+● david.service — Developer Operating System
+   Loaded: active
+   Status: operational
+```
+
+> I build software, investigate how systems fail, automate the repetitive parts, and turn complicated ideas into infrastructure that survives outside `localhost`.
+
+---
+
+## `03 // CAPABILITIES`
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,cs,bash" />
+
+**FRONTEND**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,redux,threejs" />
+
+**BACKEND**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,dotnet,graphql" />
+
+**DATABASE / CLOUD / INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,docker,nginx,aws,cloudflare,vercel" />
+
+**SYSTEMS / SECURITY / TOOLING**
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,git,github,gitlab,selenium,raspberrypi,arduino" />
+
+| DOMAIN | APPROACH |
+|:--|:--|
+| `WEB` | Interfaces that feel fast, deliberate, and alive |
+| `BACKEND` | APIs and services designed around actual workflows |
+| `SECURITY` | Understand how systems fail before hardening them |
+| `AUTOMATION` | Eliminate repetitive human work |
+| `INFRASTRUCTURE` | Make software survive outside localhost |
+| `AI` | Use models as components inside real systems |
+
+---
+
+## `04 // SYSTEM ARCHITECTURE`
+
+<div align="center">
+<img src="assets/architecture.svg" alt="Engineering process: idea leads to architecture, then build, which splits into secure and automate, converging on deploy." width="100%"/>
+</div>
+
+---
+
+## `05 // ACTIVE PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**NEXORA · E-COMMERCE**
+`TypeScript`
+
+Storefront build focused on product browsing, cart flow, and checkout UX.
+
+[`→ repo`](https://github.com/david1337x/Nexora-Ecommerce)
+
+</td>
+<td width="50%" valign="top">
+
+**GLASS CALCULATOR**
+`TypeScript / React`
+
+A sleek, animated calculator with a glassmorphic UI and smooth interaction states.
+
+[`→ repo`](https://github.com/david1337x/Glass-Calculator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**WEATHER CHECK**
+`JavaScript`
+
+Live weather lookup with a clean, minimal interface.
+
+[`→ repo`](https://github.com/david1337x/Weather-Check)
+
+</td>
+<td width="50%" valign="top">
+
+**VELOURA CAFÉ**
+`TypeScript`
+
+Café/restaurant concept site — brand-driven landing experience.
+
+[`→ repo`](https://github.com/david1337x/Veloura-Cafe)
+
+</td>
+</tr>
+</table>
+
+**Freelance / client infrastructure:** `RECOVERIFY` — digital recovery and marketplace infrastructure · `NORTH INDIA FRIENDS` — non-profit digital infrastructure.
+
+<div align="center">
+
+<a href="https://dav1337.com">
+<img src="https://img.shields.io/badge/DAV1337.COM-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505"/>
+</a>
+
+</div>
+
+---
+
+## `06 // TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=david1337x&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david1337x&layout=compact&langs_count=8&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF" height="170"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=david1337x&theme=dark&hide_border=true&background=050505&stroke=00E5FF&ring=00E5FF&fire=FFB000&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=777777" width="65%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=david1337x&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&radius=12" width="100%"/>
+
+</div>
+
+---
+
+## `07 // CONTRIBUTION MATRIX`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/david1337x/david1337x/pacman-output/pacman-contribution-graph.svg?game=pacman" width="100%"/>
+</div>
+
+<details>
+<summary><code>10 // ACHIEVEMENTS</code></summary>
+<br>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=david1337x&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" width="100%"/>
+</div>
+</details>
+
+---
+
+## `08 // TRANSMISSION`
+
+<div align="center">
+
+**BUILD SOMETHING WORTH BREAKING.**
+
+<a href="https://github.com/david1337x"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=050505"/></a>
+<a href="https://x.com/Dav1dnShepherd"><img src="https://img.shields.io/badge/X-FFFFFF?style=for-the-badge&logo=x&logoColor=050505"/></a>
+<a href="https://dav1337.com"><img src="https://img.shields.io/badge/DAV1337.COM-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=050505"/></a>
+
+<br><br>
+
+<sub>SYSTEM STATUS: ONLINE · SIGNAL: STABLE · CHANNEL: OPEN</sub>
+
+</div>
